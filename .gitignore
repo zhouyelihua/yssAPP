@@ -1,0 +1,7 @@
+Pods/*
+Podfile.lock
+GrabOnePackage.xcodeproj/project.xcworkspace/xcuserdata/
+GrabOnePackage.xcodeproj/xcuserdata/
+GrabOnePackage.xcscmblueprint
+GrabOnePackage.xcworkspace/xcuserdata
+Build/*
